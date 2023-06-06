@@ -1,2 +1,3 @@
 # PasswordGenerator
-Generador de contraseñas
+Generador de contraseñas con HTML,JavaScript y CSS usando DOM, eventos y funciones.
+
